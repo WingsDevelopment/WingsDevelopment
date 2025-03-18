@@ -4,7 +4,7 @@ Hey there! 👋 I'm Srdjan, a passionate software engineer from Serbia 🇷🇸,
 ### 💻 What I Do
 I'm a full-stack developer with a deep focus on frontend engineering and web3 development.
 
-### But let's be real—programming is more than just a job for me. ❤️‍🔥
+### ❤️‍🔥 Programming is more than just a job for me. 
 It’s my passion, my craft. <br/>
 When I’m not working, you’ll find me tinkering with new ideas, hacking away at **side projects** (check out my pinned repos 👇), and diving into new tech.
 
