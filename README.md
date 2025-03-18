@@ -18,14 +18,11 @@ When I’m not working, you’ll find me tinkering with new ideas, hacking away 
 ⚡ Other: Data visualization, micro frontends, caching layers, performance optimizations
 
 ### 🎮 Beyond Code
-When I’m not building products, I’m:
-🎮 Playing Dota 2 (forever trying to escape the trench)
-🏓 Hitting the padel courts
-♟️ Thinking 10 moves ahead in chess (or at least trying to)
-👨‍👩‍👧‍👦 Spending quality time with my family ❤️
+When I’m not building products, I’m play:
+🎮 Dota 2 🏓 Padel ♟️ Chess or 👨‍👩‍👧‍👦 Spending quality time with my family ❤️
 
 ### 🚀 Why Work With Me?
-I don’t just write code—I think in systems and design solutions
+I don’t just write code—I think in systems and design solutions <br />
 I thrive in fast-moving startups and love building MVPs quickly
 I have experience with micro frontends and large-scale DeFi architectures
 I’m constantly improving and staying ahead of the curve in web3
