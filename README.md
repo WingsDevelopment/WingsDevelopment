@@ -15,8 +15,8 @@ When I’m not working, you’ll find me hacking away at **side projects** (chec
 ⚡ Other: Data visualization, caching layers, performance optimizations, monorepos, consulting <br/>
 
 ### 🎮 Beyond Code
-When I’m not building products, I’m play:
-🎮 Dota 2 🏓 Padel ♟️ Chess or 👨‍👩‍👧‍👦 Spending quality time with my family ❤️
+When I’m not building products, I play:
+🎮 Dota 2 🏓 Padel ♟️ Chess or  👨‍👩‍👧‍👦 I'm Spending time with my family ❤️
 
 ### 📩 Let's connect! 
 Feel free to reach out for collaborations, job opportunities, or just to geek out over cool tech.
