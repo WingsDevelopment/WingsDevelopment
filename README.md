@@ -5,14 +5,7 @@ Hey there! 👋 I'm Srdjan, a passionate software engineer from Serbia 🇷🇸,
 I'm a full-stack developer with a deep focus on frontend engineering and web3 development.
 
 ### ❤️‍🔥 Programming is more than just a job for me.
-When I’m not working, you’ll find me hacking away at **side projects** (check out my pinned repos 👇), and diving into new tech.
-
-### 🏆 Tech & Skills
-⚡ Frontend: React, Next.js, TypeScript, Tailwind, Svelte, Sveltekit, Vue <br/>
-⚡ Web3: Wagmi, Viem, ethers.js, smart contract integration <br/>
-⚡ Backend: Node.js, Redis, GraphQL, C#, Subgraphs, API design <br/>
-⚡ Testing & DevOps: Cypress, Vitest, Sentry, CI/CD (Vercel, Docker, DigitalOcean) <br/>
-⚡ Other: Data visualization, caching layers, performance optimizations, monorepos, consulting <br/>
+When I’m not working, you’ll find me hacking away at **side projects** (check out my pinned repos 👇
 
 ### 🎮 Beyond Code
 When I’m not building products, I play:
