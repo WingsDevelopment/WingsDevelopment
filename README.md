@@ -11,6 +11,3 @@ When I’m not working, you’ll find me hacking away at **side projects** (chec
 When I’m not building products, I play:
 🎮 Dota 2 🏓 Padel ♟️ Chess or  👨‍👩‍👧‍👦 I'm Spending time with my family ❤️
 
-### 📩 Let's connect! 
-Feel free to reach out for collaborations, job opportunities, or just to geek out over cool tech.
-Let me know if you want to tweak anything! 🚀
