@@ -1,5 +1,5 @@
 # 🚀 Srdjan's GitHub Playground
-Hey there! 👋 I'm Srdjan, a passionate software engineer from Serbia 🇷🇸, currently living in the Central European Time Zone. I split my time between Slovenia and Switzerland (about a third of the year in each), and I'm looking to move to Lisbon! 🌍 <br/>
+Hey there! 👋 I'm Srdjan, a passionate software engineer from Serbia 🇷🇸, currently living in the Central European Time Zone.
 
 ### 💻 What I Do
 A Senior Front-end developer, capable of wearing multiple hats, my experience includes
